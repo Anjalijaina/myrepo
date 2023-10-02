@@ -1,0 +1,13 @@
+lear : To clear the screen 
+pwd :   present working directory
+mkdir : command is used to create a directory/folder
+Example: mkdir directoryname
+mkdir -p : command is used to create a folder/directory if it doesn’t exist
+cd    : command is used to change directory 
+Example: cd folder name
+"cd .." – command is used to come out of the directory/ back to previous folder
+touch   - command is used to create a file
+Example: touch filename
+
+Have a nice day !!!
+
